@@ -1,0 +1,6 @@
+# Local virtual environment (everyone makes their own)
+.venv/
+
+# Python and Jupyter clutter
+__pycache__/
+.ipynb_checkpoints/
